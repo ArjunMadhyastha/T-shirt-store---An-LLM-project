@@ -8,13 +8,13 @@ T-shirt store is a data retrieval project where the user can retrieve data  from
 4. The project page will open in your favourite browser.
 5. Enter any query regarding the t-shirts database to get the required output.
 # Sample Questions
-1.How many total t shirts are left in total in stock?
-2.How many t-shirts do we have left for Nike in XS size and white color?
-3.How much is the total price of the inventory for all S-size t-shirts?
-4.How much sales amount will be generated if we sell all small size adidas shirts today after discounts?
+1. How many total t shirts are left in total in stock?
+2. How many t-shirts do we have left for Nike in XS size and white color?
+3. How much is the total price of the inventory for all S-size t-shirts?
+4. How much sales amount will be generated if we sell all small size adidas shirts today after discounts?
 # Project Structure
-1.main.py: The main Streamlit application script.
-2.langchain_helper.py: This has all the langchain code
-3.requirements.txt: A list of required Python packages for the project.
-4.few_shots.py: Contains few shot prompts
-5..env: Configuration file for storing your Google API key.
+1. main.py: The main Streamlit application script.
+2. langchain_helper.py: This has all the langchain code
+3. requirements.txt: A list of required Python packages for the project.
+4. few_shots.py: Contains few shot prompts
+5. .env: Configuration file for storing your Google API key.
